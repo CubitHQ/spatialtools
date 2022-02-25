@@ -3,6 +3,6 @@
   "dockerFile": "../Dockerfile",
   "workspaceFolder": "/app",
   "image": "cubit_tools_shell",
-  "forwardPorts": [3000],
+  // "forwardPorts": [3000],
   "shutdownAction": "stopContainer"
 }

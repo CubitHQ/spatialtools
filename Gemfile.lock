@@ -3,7 +3,7 @@ GEM
   specs:
     rake (13.0.6)
     sequel (5.53.0)
-    sqlite (1.0.2)
+    sqlite3 (1.4.2)
 
 PLATFORMS
   aarch64-linux
@@ -11,7 +11,7 @@ PLATFORMS
 DEPENDENCIES
   rake
   sequel
-  sqlite
+  sqlite3
 
 BUNDLED WITH
    2.3.3

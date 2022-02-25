@@ -5,5 +5,4 @@
   "image": "cubit_tools_shell",
   "forwardPorts": [3000],
   "shutdownAction": "stopContainer"
-  // "postStartCommand": "sh -c 'while true; do sleep 30; done'"
 }

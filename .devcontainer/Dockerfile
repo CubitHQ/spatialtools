@@ -1,4 +1,4 @@
-FROM ruby:3.1.0
+FROM ruby:2.7.0
 
 LABEL author="Anthony Morales <amorales@cubitplanning.com>"
 LABEL description="Ruby, Rake and spatialite playground"

@@ -1,12 +1,13 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    rake (13.0.6)
-    sequel (5.53.0)
-    sqlite3 (1.4.2)
+    bigdecimal (3.1.4)
+    rake (13.1.0)
+    sequel (5.74.0)
+      bigdecimal
+    sqlite3 (1.6.8-x86_64-linux)
 
 PLATFORMS
-  aarch64-linux
   x86_64-linux
 
 DEPENDENCIES
@@ -15,4 +16,4 @@ DEPENDENCIES
   sqlite3
 
 BUNDLED WITH
-   2.3.3
+   2.4.10
